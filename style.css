@@ -1,0 +1,27 @@
+.card:hover{
+  cursor: pointer;
+}
+.card{
+  border:0px;
+  background: #FFF4C1	;
+    
+}
+.card-body{
+  height: 65px;
+}
+
+.btn-add-favorite:hover {
+  color: #fff;
+  background: #7D7DFF;
+  border: 0px;
+}
+
+.btn-remove-favorite:hover {
+  color: #fff;
+  background: orange;
+  border: 0px;
+}
+
+body{
+  background: #AFAF61;
+}
